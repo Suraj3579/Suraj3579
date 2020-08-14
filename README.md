@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Android APP Development and MongoDB
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: Play Tennis, Watch Football and Anime
+- ⚡ Hobbies: Playing Tennis, Watching Football and Anime
 
 ### Connect with me:
 
@@ -40,7 +40,7 @@
 
 ---
 
-
+<img align="left" alt="Suraj2579's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suraj3579&show_icons=true&hide_border=true" />
 
 
 [website]: https://suraj3579.pythonanywhere.com/
