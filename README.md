@@ -38,7 +38,7 @@
 
 
 
-<img align="left" alt="Suraj2579's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suraj3579&show_icons=true&hide_border=true" />
+<img align="left" alt="Suraj2579's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suraj3579&show_icons=true&hide_border=true&count_private=true" />
 
 
 [website]: https://suraj3579.pythonanywhere.com/
