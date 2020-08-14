@@ -40,6 +40,8 @@
 
 <img align="left" alt="Suraj2579's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suraj3579&show_icons=true&hide_border=true&count_private=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj3579&layout=compact)](https://github.com/Suraj3579/github-readme-stats)
+
 
 [website]: https://suraj3579.pythonanywhere.com/
 [linkedin]: https://www.linkedin.com/in/suraj-raj-karingala-658b65172
