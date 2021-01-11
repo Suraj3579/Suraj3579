@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on couple of APP Dev Projects
 - 🌱 I’m currently learning Android APP Development and MongoDB
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Hobbies: Playing Tennis, Watching Football and Anime
 
 ### Connect with me:
