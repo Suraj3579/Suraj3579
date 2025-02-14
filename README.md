@@ -1,12 +1,9 @@
 ### Hi there, I'm Suraj - aka [Suraj3579][website] 👋
 
-## I'm an Undergrad, Developer!
+## I'm a Developer!
 
-- 🔭 I’m currently working on couple of APP Dev Projects
-- 🌱 I’m currently learning Android APP Development and MongoDB
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: Playing Tennis, Watching Football and Anime
+- I’m currently working as an applications engineer at OTM, Oracle Fusion SCM.
+- Graduated from IIT Guwahati with a majors in ECE
 
 ### Connect with me:
 
